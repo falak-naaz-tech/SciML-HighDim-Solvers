@@ -1,5 +1,5 @@
 # SciML-HighDim-Solvers
-### Physics-Informed Neural Networks (PINNs) & Machine Learning for High-Dimensional Differential Equations
+### Numerical and Machine Learning Methods for Reliable and Scalable Solutions of High‑Dimensional Differential Equations in Biological and Physical Systems
 
 This repository houses computational research focused on bypassing the "curse of dimensionality" in physical and biological systems using **Scientific Machine Learning (SciML)** frameworks. 
 
